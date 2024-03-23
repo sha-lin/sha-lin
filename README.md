@@ -4,4 +4,4 @@ I am a committed, creative software developer with also a solid background in co
 
 - 📫 How to reach me: ronoshalin@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sha-lin &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sha-lin&theme=radical)
